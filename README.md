@@ -1,5 +1,7 @@
 Senaryo: Büyük Bir Şirketin Ağ Altyapısını Tasarlama ve Güvenlik Sağlama
+
 Şirket Adı: TechCorp Ltd.
+
 Çalışan Sayısı: 200+
 
 Lokasyonlar:
