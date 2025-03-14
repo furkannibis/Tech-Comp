@@ -1,14 +1,13 @@
 Senaryo: Büyük Bir Şirketin Ağ Altyapısını Tasarlama ve Güvenlik Sağlama
 Şirket Adı: TechCorp Ltd.
+Çalışan Sayısı: 200+
 
 Lokasyonlar:
 
-Merkez Ofis: (Ana yönlendirme ve sunucu odası burada olacak)
+    1. Merkez Ofis: (Ana yönlendirme ve sunucu odası burada olacak)
+    2. Şube 1: (Küçük bir ofis, internet erişimi ve merkezi kaynaklara erişim olmalı)
+    3. Şube 2: (Orta ölçekli bir ofis, VLAN’lar ve güvenlik önlemleri uygulanmalı)
 
-Şube 1: (Küçük bir ofis, internet erişimi ve merkezi kaynaklara erişim olmalı)
-
-Şube 2: (Orta ölçekli bir ofis, VLAN’lar ve güvenlik önlemleri uygulanmalı)
-Çalışan Sayısı: 200+
 
 1 - Ağ Tasarımını Yap
 
